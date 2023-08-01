@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="Profile Readme Generator Ask AI to edit or generate..." target="_blank">
+  <a href="https://www.linkedin.com/in/%E6%98%B1%E6%AC%A3-%E9%84%AD-bbb585230/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -57,7 +57,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=owllion&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=owllion&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owllion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="220" alt="languages graph"  />
 </div>
 
